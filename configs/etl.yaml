@@ -1,0 +1,7 @@
+nasdaq_tickers: ["GOOGL", "CHTR","CMCSA","META", "NFLX","TMUS","WBD","AMZN","ASML","TSLA","AAPL","CSCO","MSFT","NVDA","PLTR"]
+PG_HOST: "postgres"
+PG_PORT: "5432"
+PG_DB: "yfinance_db"
+PG_USER: "user"
+PG_PASSWORD: "password"
+PG_TABLE: "daily_stock_prices"

@@ -1,0 +1,16 @@
+Ticker,Company,GICS Sector,GICS Sub-Industry
+GOOGL,Alphabet Inc. (Class A),Communication Services,Interactive Media & Services
+AMZN,Amazon,Consumer Discretionary,Broadline Retail
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals"
+ASML,ASML Holding,Information Technology,Semiconductor Equipment
+CHTR,Charter Communications,Communication Services,Cable & Satellite
+CSCO,Cisco,Information Technology,Communications Equipment
+CMCSA,Comcast,Communication Services,Cable & Satellite
+META,Meta Platforms,Communication Services,Interactive Media & Services
+MSFT,Microsoft,Information Technology,Systems Software
+NFLX,"Netflix, Inc.",Communication Services,Movies & Entertainment
+NVDA,Nvidia,Information Technology,Semiconductors
+PLTR,Palantir Technologies,Information Technology,Application Software
+TMUS,T-Mobile US,Communication Services,Wireless Telecommunication Services
+TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers
+WBD,Warner Bros. Discovery,Communication Services,Broadcasting
